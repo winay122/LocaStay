@@ -1,4 +1,4 @@
-# HomeStays
+# LocaStays
 
 ## Overview
 
@@ -36,7 +36,7 @@ This project is a full-stack web application developed using MERN stack (MongoDB
 
      #### S3_ACCESS_KEY = your S3 bucket key
 
-     #### CS3_SECRET_ACCESS_KEY = your S3 bucket secret access key
+     #### S3_SECRET_ACCESS_KEY = your S3 bucket secret access key
 
      #### CLIENT_URL= http://localhost:5173
 
